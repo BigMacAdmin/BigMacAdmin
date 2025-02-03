@@ -12,3 +12,7 @@ I've also released some other scripts I use in my day to day that Mac Admins may
 You can reach me by email at ts@bigmacadmin.com
 
 You can read my blog at https://bigmacadmin.wordpress.com
+
+If you feel inclined, you can support me here:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bigmacadmin)
